@@ -1,0 +1,17 @@
+html,body
+{
+  color:white;
+  background-repeat: no-repeat;
+  background-color: #cccccc;
+  background-position: initial; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+}
+h1,h2
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+}
